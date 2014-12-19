@@ -1,3 +1,3 @@
 MyperlScript
 ============
-Beginning Perl for :Bioinformatics:, :Bio-Informatics:.
+Beginning Perl for Bioinformatics
